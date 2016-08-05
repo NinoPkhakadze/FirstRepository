@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server removed a file since it was found to match a filter.
+File name: "winmail.dat->ConsoleApplication2.rar->ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.vshost.exe"
+Filter name: "FILE FILTER= Extentions: *.exe"
